@@ -4,7 +4,7 @@ CREATE SCHEMA sales
 go
 CREATE SCHEMA customer
 go
-CREATE TABLE sales.products(
+CREATE TABLE customer.users(
 	id int NOT NULL,
 	name nvarchar(100),
 	balance money,
