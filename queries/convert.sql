@@ -1,1 +1,3 @@
-SELECT name FROM sys.tables;;
+USE DB1;
+GO
+DROP TABLE shop;

@@ -1,0 +1,3 @@
+USE master
+go
+DROP DATABASE DB0

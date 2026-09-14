@@ -14,7 +14,7 @@ GO
 --)
 
 create table shop15(
-   id INTEGER PRIMARY KEY, 
+  id INT PRIMARY KEY IDENTITY(1,1), 
   product_name TEXT,
   price REAL,
   quantity INTEGER
