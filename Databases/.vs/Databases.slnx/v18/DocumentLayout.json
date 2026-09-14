@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Komp7\\Desktop\\sql\\Databases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9B3D6-8A1B-16A6-8056-F460BFFFC66D}|Databases.ssmssqlproj|C:\\Users\\Komp7\\Desktop\\sql\\Databases\\sdfg.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{77F9B3D6-8A1B-16A6-8056-F460BFFFC66D}|Databases.ssmssqlproj|solutionrelative:sdfg.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9B3D6-8A1B-16A6-8056-F460BFFFC66D}|Databases.ssmssqlproj|C:\\Users\\Komp7\\Desktop\\sql\\Databases\\\u0441\u043E\u0437\u0434\u0430\u043D\u0438\u0435 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{77F9B3D6-8A1B-16A6-8056-F460BFFFC66D}|Databases.ssmssqlproj|solutionrelative:\u0441\u043E\u0437\u0434\u0430\u043D\u0438\u0435 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sdfg.sql - COMP7A2\\SQLEXPRESS.master (COMP7A2\\Comp7 (61))",
+              "DocumentMoniker": "C:\\Users\\Komp7\\Desktop\\sql\\Databases\\sdfg.sql",
+              "RelativeDocumentMoniker": "sdfg.sql",
+              "ToolTip": "sdfg.sql - COMP7A2\\SQLEXPRESS.master (COMP7A2\\Comp7 (61))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-07T09:23:27.679Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.master (COMP7A2\\Comp7 (61))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0441\u043E\u0437\u0434\u0430\u043D\u0438\u0435 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445.sql - COMP7A2\\SQLEXPRESS.master (COMP7A2\\Comp7 (53))",
+              "DocumentMoniker": "C:\\Users\\Komp7\\Desktop\\sql\\Databases\\\u0441\u043E\u0437\u0434\u0430\u043D\u0438\u0435 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445.sql",
+              "RelativeDocumentMoniker": "\u0441\u043E\u0437\u0434\u0430\u043D\u0438\u0435 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445.sql",
+              "ToolTip": "\u0441\u043E\u0437\u0434\u0430\u043D\u0438\u0435 \u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445.sql - COMP7A2\\SQLEXPRESS.master (COMP7A2\\Comp7 (53))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-04T09:14:05.998Z",
+              "EditorCaption": " - COMP7A2\\SQLEXPRESS.master (COMP7A2\\Comp7 (53))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
