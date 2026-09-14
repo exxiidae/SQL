@@ -33,9 +33,15 @@
           <AssociatedConnUserName />
           <FullPath>create table.sql</FullPath>
         </FileNode>
+        <FileNode Name="insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP7A2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP7A2\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>insert.sql</FullPath>
+        </FileNode>
         <FileNode Name="table acc.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMP7A2\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMP7A2\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>table acc.sql</FullPath>
         </FileNode>
